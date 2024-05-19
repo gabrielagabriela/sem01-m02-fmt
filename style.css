@@ -75,3 +75,13 @@ label{
 .pergunta input{
   margin-top: 5px;
 }
+
+.texto{
+  padding: 3px;
+  border-radius: 3px;
+  border: 1px solid rgb(65, 8, 75);
+}
+
+.texto:focus{
+  border:2px solid rgb(65, 8, 75); ;
+}
